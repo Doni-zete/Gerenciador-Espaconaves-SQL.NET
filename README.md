@@ -7,7 +7,7 @@
 
 [Tabela utilizada ](https://github.com/Doni-zete/Gerenciador-Espaconaves-SQL.NET/blob/main/scripts-tabelas.sql)
 
-Foi criado as tabelas ligadas aos Pilotos, Naves, Planetas(Chaves Primárias e Secundárias)
+Foi criado as tabelas ligadas aos Pilotos, Naves, Planetas,HistoricoNaves(Chaves Primárias e Secundárias)
 
 
 
