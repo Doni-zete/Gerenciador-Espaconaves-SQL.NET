@@ -454,25 +454,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiag\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Doni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+      "projectUniqueName": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETO-ESPACONAVE-SQL\\Gerenciador-Espaconaves-SQL.NET\\src\\ConroleAcesso\\ConroleAcesso.csproj",
       "projectName": "ConroleAcesso",
-      "projectPath": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
-      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\obj\\",
+      "projectPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETO-ESPACONAVE-SQL\\Gerenciador-Espaconaves-SQL.NET\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+      "packagesPath": "C:\\Users\\Doni\\.nuget\\packages\\",
+      "outputPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETO-ESPACONAVE-SQL\\Gerenciador-Espaconaves-SQL.NET\\src\\ConroleAcesso\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Doni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -520,7 +515,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

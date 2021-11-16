@@ -25,3 +25,30 @@ C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAce
 C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CopyComplete
 C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmControleNaves.resources
 C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmRegistrarEntradaSaida.resources
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.exe
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.deps.json
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ref\ConroleAcesso.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.pdb
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmControleNaves.resources
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmPrincipal.resources
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmRegistrarEntradaSaida.resources
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.GenerateResource.cache
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CopyComplete
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ref\ConroleAcesso.dll
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.pdb
+E:\FATEC\CURSOS\GITHUB\PROJETO-ESPACONAVE-SQL\Gerenciador-Espaconaves-SQL.NET\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.genruntimeconfig.cache
